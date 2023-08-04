@@ -360,4 +360,3 @@ CONFIG_WPA_MSG_MIN_PRIORITY=3
 # CONFIG_OPENVPN_openssl_ENABLE_SMALL is not set
 # CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_friendlyelec_nanopc-t6 is not set
 # CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_friendlyelec_nanopi-r6c is not set
-# CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_friendlyelec_nanopi-r6s is not set
